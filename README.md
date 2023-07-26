@@ -2,7 +2,7 @@
 Projeto tem como principal objetivo apresentação de portifólio para o desafio da Locaweb
 
 # Tecnologias utilizadas
-- [Ruby](https://www.ruby-lang.org/pt/)**(2.72)**
+- [Ruby](https://www.ruby-lang.org/pt/)**(3.1.4)**
 - [Cucumber](https://cucumber.io/)
 - [Capybara](https://teamcapybara.github.io/capybara/)
 - [Chromedriver](https://chromedriver.chromium.org/downloads)
