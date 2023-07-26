@@ -1,0 +1,7 @@
+---
+default: -p prd -p chrome
+dev: ENV_TYPE=dev
+hml: ENV_TYPE=hml
+prd: ENV_TYPE=prd
+chrome: BROWSER=chrome
+headless: BROWSER=headless

@@ -1,0 +1,9 @@
+---
+registro_de_dominio:
+  dominio_indisponivel: "test"
+  retorno_dominio_disponivel: "Que legal! Este domínio está livre. :)"
+  retorno_dominio_indisponivel: "Que pena... O domínio test.com.br já existe. :("
+checkout:
+  retorno_pagina_checkout: "Estamos preparando a sua compra, entre com a sua conta ou cadastre-se, é bem rápido"
+contratar_registro:
+  retorno_documento_invalido: "Documento inválido. Verifique se digitou corretamente."
